@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Projects
+permalink: /projects/
 ---
-
-## Projects
 
 Here is a list of all available projects by NimbiDev
 
