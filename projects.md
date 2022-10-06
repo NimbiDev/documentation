@@ -23,3 +23,9 @@ Here is a list of all available projects by NimbiDev
  * [...](../../)
  * [...](../../)
  * [...](../../)
+
+**Mods**
+
+ * [Final Fantasy XIV](../../FFXIV-Mods)
+ * [...](../../)
+ * [...](../../)
