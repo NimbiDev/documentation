@@ -14,7 +14,7 @@ Here is a list of all available projects by NimbiDev
 
 **Customization**
 
- * [...](../../)
+ * [Final Fantasy XIV Mods](../../FFXIV-Mods)
  * [...](../../)
  * [...](../../)
 
@@ -24,8 +24,3 @@ Here is a list of all available projects by NimbiDev
  * [...](../../)
  * [...](../../)
 
-**Mods**
-
- * [Final Fantasy XIV](../../FFXIV-Mods)
- * [...](../../)
- * [...](../../)
