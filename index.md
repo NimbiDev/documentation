@@ -9,3 +9,4 @@ Open-Source Development
 
   * [About](./index.md)
   * [Comment Policy](./comment-policy.md)
+  * [Projects](./projects.md)
