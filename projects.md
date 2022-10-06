@@ -24,3 +24,7 @@ Here is a list of all available projects by NimbiDev
  * [...](../../)
  * [...](../../)
 
+**Discord Bots**
+
+ * [Guardian](../../Guardian/)
+
