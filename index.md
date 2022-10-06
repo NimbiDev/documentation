@@ -7,6 +7,6 @@ Open-Source Development
 
 ## Contents
 
-  * [About](./index.md)
-  * [Comment Policy](./comment-policy.md)
-  * [Projects](./projects.md)
+  * [About](https://nimbidev.github.io/documentation/)
+  * [Comment Policy](https://nimbidev.github.io/documentation/comment-policy)
+  * [Projects](https://nimbidev.github.io/documentation/projects)
