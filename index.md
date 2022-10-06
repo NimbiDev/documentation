@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About
-permalink: /about/
+permalink: /
 ---
 
 Open-Source Development
