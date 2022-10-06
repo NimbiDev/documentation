@@ -21,3 +21,4 @@ minima:
 header_pages:
   - index.md
   - comment-policy.md
+  - projects.md
