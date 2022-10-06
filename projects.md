@@ -22,7 +22,6 @@ Here is a list of all available projects by NimbiDev
  * Virtual Customs
  * YouTube Player
  * YT Music Player
- * XM Menu Player
 
 **Discord Bots**
 
