@@ -1,6 +1,5 @@
 ---
 layout: home
-comments: true
 ---
 
 ## About
