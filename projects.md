@@ -1,7 +1,8 @@
 ---
 layout: page
-name: Projects
 ---
+
+## Projects
 
 Here is a list of all available projects by NimbiDev
 
