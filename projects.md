@@ -6,25 +6,43 @@ permalink: /projects/
 
 Here is a list of all available projects by NimbiDev
 
-**Tools**
+---
 
-  * [RamMap Task Scheduler](../../RAMMap-Task-Scheduler)
-  * Refresh Icon Cache
+ * **Tools**
 
-**Customization**
+| Name | URL |
+| ---- | ---- |
+| RAMMap Task Scheduler | [NimbiDev.github.io/RamMap Task Scheduler](../../RAMMap-Task-Scheduler) |
+| Refresh Icon Cache | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
 
- * [Final Fantasy XIV Mods](../../FFXIV-Mods)
- * Deskthemepacks
- * Visual Styles
+---
 
-**Apps**
+ * **Customization**
 
- * Virtual Customs
- * YouTube Player
- * YT Music Player
+| Name | URL |
+| ---- | ---- |
+| FFXIV Mods | [NimbiDev.github.io/FFXIV-Mods](../../FFXIV-Mods) |
+| Deskthemepacks | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| Visual Styles | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
 
-**Discord Bots**
+---
 
- * [Guardian](../../Guardian/)
- * Prima
 
+ * **Apps**
+
+| Name | URL |
+| ---- | ---- |
+| Virtual Customs | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| YouTube Player | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| YT Music Player | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+
+---
+
+ * **Discord Bots**
+
+| Name | URL |
+| ---- | ---- |
+| Guardian | [NimbiDev.github.io/Guardian](../../Guardian)
+| Prima | [NimbiDev.github.io/Prima](../../Prima)
+
+---
