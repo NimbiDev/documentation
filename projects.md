@@ -8,12 +8,14 @@ Here is a list of all available projects by NimbiDev
 
 ---
 
- * **Tools**
+ * **Scripts**
 
 | Name | URL |
 | ---- | ---- |
 | RAMMap Task Scheduler | [NimbiDev.github.io/RamMap-Task-Scheduler](../../RAMMap-Task-Scheduler) |
 | Refresh Icons | [NimbiDev/Refresh-Icons](../../Refresh-Icons) |
+| Native Apps Compiler | [NimbiDev/Nativefier-Apps](../../Nativefier-Apps) |
+
 
 ---
 
@@ -23,7 +25,6 @@ Here is a list of all available projects by NimbiDev
 | ---- | ---- |
 | FFXIV Mods | [NimbiDev.github.io/FFXIV-Mods](../../FFXIV-Mods) |
 | Deskthemepacks | [NimbiDev.github.io/Deskthemepacks](../../Deskthemepacks) |
-| Visual Styles | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
 
 ---
 
@@ -32,7 +33,7 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| Virtual Customs | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| Virtual Customs Desktop App | [NimbiDev/VirtualCustoms-Desktop-App](../../VirtualCustoms-Desktop-App) |
 | XM Menu Player | [NimbiDev/XM-Menu-Player](../../XM-Menu-Player) |
 | YouTube Player | [NimbiDev/YouTube-Player](../../YouTube-Player) |
 | YouTube Music Player | [NimbiDev/YT-Music-Player](../../YT-Music-Player) |
