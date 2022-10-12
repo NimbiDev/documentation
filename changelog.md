@@ -20,5 +20,10 @@ permalink: /changelog/
     - Guardian
     - FFXIV Mods
     - Pylon.Bot
- - Renamed:
-    - `Refresh-Icons-Cache` >> `Refresh-Icons`
+ - Renamed `Refresh-Icons-Cache` to `Refresh-Icons`
+	
+**10/12/2022**
+
+ - Added the following apps to Native Apps Compiler:
+	- YouTube
+	- YouTube Music
