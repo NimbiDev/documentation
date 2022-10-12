@@ -12,9 +12,9 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| RAMMap Task Scheduler | [NimbiDev.github.io/RamMap-Task-Scheduler](../../RAMMap-Task-Scheduler) |
-| Refresh Icons | [NimbiDev/Refresh-Icons](../../Refresh-Icons) |
-| Native Apps Compiler | [NimbiDev/Nativefier-Apps](../../Nativefier-Apps) |
+| RAMMap Task Scheduler | [NimbiDev/RAMMap Task Scheduler](../../RAMMap-Task-Scheduler) |
+| Refresh Icons | [NimbiDev/Refresh Icons](../../Refresh-Icons) |
+| Native Apps Compiler | [NimbiDev/Native Apps Compiler](../../Nativefier-Apps) |
 
 
 ---
@@ -23,8 +23,8 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| FFXIV Mods | [NimbiDev.github.io/FFXIV-Mods](../../FFXIV-Mods) |
-| Deskthemepacks | [NimbiDev.github.io/Deskthemepacks](../../Deskthemepacks) |
+| FFXIV Mods | [NimbiDev/FFXIV Mods](../../FFXIV-Mods) |
+| Deskthemepacks | [NimbiDev/Deskthemepacks](../../Deskthemepacks) |
 
 ---
 
@@ -33,10 +33,10 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| Virtual Customs Desktop App | [NimbiDev/VirtualCustoms-Desktop-App](../../VirtualCustoms-Desktop-App) |
-| XM Menu Player | [NimbiDev/XM-Menu-Player](../../XM-Menu-Player) |
-| YouTube Player | [NimbiDev/YouTube-Player](../../YouTube-Player) |
-| YouTube Music Player | [NimbiDev/YT-Music-Player](../../YT-Music-Player) |
+| Virtual Customs Desktop App | [NimbiDev/Virtual Customs Desktop App](../../VirtualCustoms-Desktop-App) |
+| XM Menu Player | [NimbiDev/XM Menu Player](../../XM-Menu-Player) |
+| YouTube Player | [NimbiDev/YouTube Player](../../YouTube-Player) |
+| YouTube Music Player | [NimbiDev/YouTube Music Player](../../YT-Music-Player) |
 
 ---
 
@@ -44,7 +44,14 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| Guardian | [NimbiDev.github.io/Guardian](../../Guardian)
-| Prima | [NimbiDev.github.io/Prima](../../Prima)
+| Guardian | [NimbiDev/Guardian](../../Guardian)
+| Prima | [NimbiDev/Prima](../../Prima)
+| Pylon | [NimbiDev/Pylon](../../Pylon-Bot)
 
 ---
+
+* **Other**
+
+| Name | URL |
+| ---- | ---- |
+| Character Images | [NimbiDev/Character Images](../../Character-Images) |
