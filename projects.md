@@ -12,8 +12,8 @@ Here is a list of all available projects by NimbiDev
 
 | Name | URL |
 | ---- | ---- |
-| RAMMap Task Scheduler | [NimbiDev.github.io/RamMap Task Scheduler](../../RAMMap-Task-Scheduler) |
-| Refresh Icon Cache | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| RAMMap Task Scheduler | [NimbiDev.github.io/RamMap-Task-Scheduler](../../RAMMap-Task-Scheduler) |
+| Refresh Icons | [NimbiDev/Refresh-Icons](../../Refresh-Icons) |
 
 ---
 
@@ -22,7 +22,7 @@ Here is a list of all available projects by NimbiDev
 | Name | URL |
 | ---- | ---- |
 | FFXIV Mods | [NimbiDev.github.io/FFXIV-Mods](../../FFXIV-Mods) |
-| Deskthemepacks | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| Deskthemepacks | [NimbiDev.github.io/Deskthemepacks](../../Deskthemepacks) |
 | Visual Styles | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
 
 ---
@@ -33,8 +33,9 @@ Here is a list of all available projects by NimbiDev
 | Name | URL |
 | ---- | ---- |
 | Virtual Customs | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
-| YouTube Player | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
-| YT Music Player | This page isn't ready yet. Please see our [Github](https://github.com/NimbiDev) for info on this project. |
+| XM Menu Player | [NimbiDev/XM-Menu-Player](../../XM-Menu-Player) |
+| YouTube Player | [NimbiDev/YouTube-Player](../../YouTube-Player) |
+| YouTube Music Player | [NimbiDev/YT-Music-Player](../../YT-Music-Player) |
 
 ---
 
